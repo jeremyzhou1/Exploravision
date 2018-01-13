@@ -10,10 +10,6 @@ git clone https://github.com/jeremyzhou1/Exploravision
 ```
 Otherwise, fork it and clone that.
 
-### Now what
-
-That's it we're done!
-
 ### Webpages
 
 index.html
