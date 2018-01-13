@@ -26,3 +26,5 @@ Rename about.html to solution.html
 
 Rename contact.html to consequences.html
 - consequences
+
+Delete portfolio-single.html
