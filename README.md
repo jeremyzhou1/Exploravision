@@ -22,7 +22,7 @@ index.html
 Rename portfolio.html to history.html
 - history
 
-Rename blog.html to current technology.html
+Rename blog.html to technology.html
 - present technology and breakthroughs necessary
 
 Rename about.html to solution.html
