@@ -29,4 +29,4 @@ Rename contact.html to consequences.html
 
 Delete portfolio-single.html
 
-Update index.html, history.html, technology.html, solution.htl, and consequences.html
+Update index.html, history.html, technology.html, solution.html, and consequences.html
