@@ -232,7 +232,7 @@ a {
   background-repeat: no-repeat;
   position: relative;
   top: 0;
-  height: 450px;
+  height: 800px;
   overflow: hidden; }
   .probootstrap-intro .probootstrap-scroll-down {
     position: absolute;
@@ -249,7 +249,7 @@ a {
       opacity: 0;
       visibility: hidden; }
   .probootstrap-intro .probootstrap-intro-text {
-    margin-top: 160px;
+    margin-top: 280px;
     padding-left: 0px;
     padding-right: 0px; }
     @media screen and (max-width: 768px) {
